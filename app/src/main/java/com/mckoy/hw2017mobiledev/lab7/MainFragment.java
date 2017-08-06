@@ -1,4 +1,4 @@
-package com.diglesia.hw2017mobiledev.lab7;
+package com.mckoy.hw2017mobiledev.lab7;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -6,6 +6,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.mckoy.hw2017mobiledev.lab7.R;
 
 public class MainFragment extends Fragment {
 
